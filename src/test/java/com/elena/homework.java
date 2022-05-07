@@ -10,7 +10,7 @@ import static com.codeborne.selenide.Selenide.*;
 
 public class homework {
 //    Task1
-//    $("h1").$("div"), сначала будет первый искаться h1 и в нём будет искаться div.
+//    $("h1").$("div"), сначала будет искаться первый h1 и в нём будет искаться div.
 //    $("h1 div") - h1 и div будут искаться вместе, найдётся первый h1 у которого будет div.
 
 
